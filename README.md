@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,mysql,arduino,figma,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 ---
