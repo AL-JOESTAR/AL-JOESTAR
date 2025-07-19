@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">HELLO THERE 👋</h1>
-<h3>Masih Belajar</h3>
-
-- 🔭 I’m currently working on **Laravel + Filament**
+<h3>Programer Pemula</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AL-JOESTAR&label=Profile%20views&color=0e75b6&style=flat" alt="naf-dev" />
