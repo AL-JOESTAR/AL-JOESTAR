@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 <!-- Typing Animation -->
 
-## 🛠️ Tech Stack  
+## 🛠️ Yang Saya Pelajari
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cpp,java" />
 </p>
 
 ---
