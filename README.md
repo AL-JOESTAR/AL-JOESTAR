@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">HELLO THERE 👋</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">Mahasiswa **Teknik **Informatika</h3>
 
 - 🔭 I’m currently working on **Laravel + Filament**
 
