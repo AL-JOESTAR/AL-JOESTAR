@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AL-JOESTAR/AL-JOESTAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Naf</h1>
+<h3 align="center">A passionate developer from Indonesia</h3>
+
+- 🔭 I’m currently working on **IoT + Laravel + Filament**
+- 🌱 I’m currently learning **AI, Cybersecurity, and Architecture**
+- 💬 Ask me about **Laravel, ESP32, SQL, and Node-RED**
+- 📫 How to reach me: **naf@email.com**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naf-dev&label=Profile%20views&color=0e75b6&style=flat" alt="naf-dev" />
+</p>
