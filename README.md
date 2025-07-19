@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Typing Animation -->
 
-## 🛠️ Yang Saya Pelajari
+## 🛠️ Yang Sedang Saya Pelajari
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,cpp,java,mysql" />
