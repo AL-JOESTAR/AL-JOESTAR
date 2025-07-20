@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 🛠️ Yang Sedang Saya Pelajari
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cpp,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cpp,java,mysql,python" />
 </p>
 
 ---
