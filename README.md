@@ -8,7 +8,7 @@
 
 ## 🌱 Currently Learning
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4e56a6.svg?style=flat&logo=livewire&logoColor=white" />
@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://bsky.app/profile/eovnwiovn"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white" /></a>
   <a href="https://instagram.com/efwifhw90hf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/asgdsgd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
