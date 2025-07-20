@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello There<br> I'm currently learning programming and growing step by step as a beginner developer.
+# Hello There
+<br> I'm currently learning programming and growing step by step as a beginner developer.
 
 
 ## 🌐 Socials:
