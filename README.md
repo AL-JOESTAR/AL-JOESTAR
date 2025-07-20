@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Yang Sedang Saya Pelajari
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,cpp,java,mysql,python,ubuntu,linux" />
 </p>
 
