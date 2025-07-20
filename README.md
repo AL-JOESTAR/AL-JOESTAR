@@ -1,6 +1,6 @@
-<h1 align="center">Hi There</h1>
+<h1 align="center">Hi There 👋</h1>
 
-<p align="center">
+<p>
   I'm currently learning programming and growing step by step as a beginner developer.
 </p>
 
