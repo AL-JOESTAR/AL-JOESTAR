@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1>HELLO THERE 👋</h1>
 <h3>Programer Pemula</h3>
-
+---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AL-JOESTAR&label=Profile%20views&color=0e75b6&style=flat" alt="naf-dev" />
 </p>
