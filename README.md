@@ -30,7 +30,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Sosial Media
 
 <p>
   <a href="https://bsky.app/profile/eovnwiovn"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white" /></a>
