@@ -42,6 +42,6 @@
 ---
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DwiAbdulK&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AL-JOESTAR&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DwiAbdulK&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DwiAbdulK&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-JOESTAR&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
