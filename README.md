@@ -11,7 +11,7 @@ Currently exploring:
 - Machine Learning
 
 ---
-![](https://komarev.com/ghpvc/?username=AL-JOESTAR&color=blue)
+<h1 align="center">![](https://komarev.com/ghpvc/?username=AL-JOESTAR&color=blue)</h1>
 
 ##  Yang sedang saya pelajari
 
