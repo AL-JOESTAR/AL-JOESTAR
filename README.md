@@ -1,7 +1,5 @@
 <h1 align="center">Hi There 👋</h1>
 
----
-
 I'm a beginner developer who is currently exploring different areas of programming.
 
 I like learning new technologies and building small projects to improve my problem-solving skills step by step.
