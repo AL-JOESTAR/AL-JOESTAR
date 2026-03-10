@@ -8,9 +8,7 @@ I like learning new technologies and building small projects to improve my probl
 
 Currently exploring:
 - Web development
-- Backend programming
-- Databases
-- Different programming languages
+- Machine Learning
 
 ---
 ![](https://komarev.com/ghpvc/?username=AL-JOESTAR&color=blue)
