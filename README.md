@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </p>
 
 
