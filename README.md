@@ -1,11 +1,19 @@
 <h1 align="center">Hi There 👋</h1>
 
+---
 
-<p>
-  I'm currently learning programming and growing step by step as a beginner developer.
-</p>
+I'm a beginner developer who is currently exploring different areas of programming.
+
+I like learning new technologies and building small projects to improve my problem-solving skills step by step.
+
+Currently exploring:
+- Web development
+- Backend programming
+- Databases
+- Different programming languages
 
 ---
+![](https://komarev.com/ghpvc/?username=AL-JOESTAR&color=blue)
 
 ##  Yang sedang saya pelajari
 
@@ -16,7 +24,6 @@
   <img src="https://img.shields.io/badge/Livewire-4e56a6.svg?style=flat&logo=livewire&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </p>
