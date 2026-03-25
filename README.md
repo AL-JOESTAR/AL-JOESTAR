@@ -36,6 +36,8 @@ Currently exploring:
 </p>
 
 ---
+
+<br>
 ## Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AL-JOESTAR&theme=aura)](https://git.io/streak-stats)
