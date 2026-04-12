@@ -36,13 +36,3 @@ Currently exploring:
 </p>
 
 ---
-
-<br>
-
-## Github Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AL-JOESTAR&theme=aura)](https://git.io/streak-stats)
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-JOESTAR&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
