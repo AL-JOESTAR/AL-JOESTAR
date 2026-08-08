@@ -1,14 +1,3 @@
-<h1 align="center">Hi There 👋</h1>
-
-I'm a beginner developer who is currently exploring different areas of programming.
-
-I like learning new technologies and building small projects to improve my problem-solving skills step by step.
-
-Currently exploring:
-- Web development
-- Machine Learning
-
----
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=AL-JOESTAR&color=blue" />
 </p>
@@ -34,57 +23,3 @@ Currently exploring:
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                          ▏▍▍▍▍▌▌▌▌▌▌▍▍▍▍▍▎                                         
-                                      ▎▍▁▁▂▅▁▋▋▋▋▋▋▋▋▋▋▋▊▊▄▁▂▃▋▍                                    
-                                   ▏▌▂▆▉▌                  ▏▃▂▊▄▄▉▎                                 
-                                 ▎▁▄▁▍                      ▏ ▌▁▉▉▆▁▎                               
-                                ▍▅▁▏                          ▏▋▏▎▂█▆▏                              
-                               ▍▆▍                              ▉▅▋▎▄▇▌                             
-                              ▎▇▌                               ▍▉▏▎▎▅▆▌                            
-                             ▏▉▆                                 ▏▏▏▌▇█▂                            
-                             ▎█▋                                  ▃▊▏▁█▇▍                           
-                             ▎█                                   ▅▊▎▁██▁                           
-                             ▎█                                   ▅▋▏▃██▁                           
-                             ▎█▏                                  ▉▅▉▅██▁                           
-                             ▎█▉                                  ▎▍▊██▇▋                           
-                              ▊▅                                    ▏██▄                            
-                              ▍▄▁                                    ▍▆▆▎                           
-                               ▋▅▍                                    ▏▉▃▌                          
-                                ▊▆▊  ▏                                 ▏▎█                          
-                                 ▍▄▅▊▏▎▏▎                         ▁▋▃▅▄▆▆▉                          
-                                  ▏▌▅▁▋▉▃▊▎▍▍                     ▎▍▊▃██▊                           
-                                    ▍▄█▆▂▂▇█▄▍                      ▌▊▄█▊                           
-                                     ▍▄▄████▇▃▏                 ▏▊▂▆███▄▎                           
-                                      ▁▆▋▍▃▆██▇▋▎               ▏▏▏▏▎▁█▂                            
-                                      ▏▄▊  ▏▍▇██▆▁▉▌▍             ▍▅▇█▄▏                            
-                                       ▄▊    ▎▃█████▆▂▎▏          ▏▊▅█▉                             
-                                       ▄▊     ▏▆████████▃▁▉▎▏ ▏   ▎▊▄█▊                             
-                                       ▄▊      ▏▅███████████████████▅▌▏                             
-                                      ▍▅▌       ▏▊▇████████▌ ▎▋▋▋▌▍▎                                
-                                      ▂▄▎         ▏▁███████▍                                        
-                                     ▍▅▋            ▌▆█████▇▎                                       
-                                   ▏▍▆▉▏             ▍▇█████▅▊▍                                     
-                                 ▏▌▄▃▍           ▏    ▊▇██████▇▄▉▌                                  
-                               ▌▊▄▃▍              ▎▏   ▄█████████▇                                  
-                           ▎▍▄▁▃▊▍▏▎▏              ▏▎  ▁█████████▁                                  
-                           ▍▍▎     ▏▏▏▊▎▏▏ ▏▏      ▏▏▏ ▉▂▃█████▇▌                                   
-                                            ▏▏▏▏▎▏▎▋▌▏▏▏  ▁▆█▇▃▏                                    
-                                                   ▏▏▏     ▏▌▎                                      
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
