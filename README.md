@@ -4,4 +4,6 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=React&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Next&logoColor=white" />
 </p>
