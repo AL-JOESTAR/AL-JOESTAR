@@ -1,4 +1,6 @@
+<div align="center">
 ##  Tech Stack
+</div>
 
 <p>
   <div align="center">
