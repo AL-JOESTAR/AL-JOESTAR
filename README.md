@@ -1,9 +1,5 @@
 ##  Yang sedang saya pelajari
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React-%23FF2D20.svg?style=flat&logo=React&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Next-%23FF2D20.svg?style=flat&logo=Next&logoColor=white" />
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </p>
