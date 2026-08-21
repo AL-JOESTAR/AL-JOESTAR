@@ -17,5 +17,7 @@
 </p>
 
 <p>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <div align="center">
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 </p>
