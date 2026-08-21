@@ -1,5 +1,5 @@
 ##  Yang sedang saya pelajari
 
 <p>
-  (https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
 </p>
