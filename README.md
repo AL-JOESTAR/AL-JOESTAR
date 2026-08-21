@@ -15,3 +15,7 @@
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
+
+<p>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
