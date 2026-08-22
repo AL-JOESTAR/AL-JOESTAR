@@ -10,6 +10,10 @@
 </div>
 </p>
 
+<div>
+
+### Programing Language
+
 <p>
   <div align="center">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -20,6 +24,13 @@
   </div>
 </p>
 
+</div>
+
+
+<div>
+
+### Framework
+
 <p>
   <div align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -29,3 +40,5 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   </div>
 </p>
+
+</div>
