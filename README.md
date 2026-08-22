@@ -12,7 +12,7 @@
 
 <div>
 
-### Programing Language
+### Framework
 
 <p>
   <div align="center">
@@ -29,7 +29,7 @@
 
 <div>
 
-### Framework
+### Programing Language
 
 <p>
   <div align="center">
