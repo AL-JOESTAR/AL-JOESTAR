@@ -10,7 +10,7 @@
 </div>
 </p>
 
-<div>
+<div align="center">
 
 ### Programing Language
 
