@@ -1,18 +1,18 @@
 <div align="center">
-  
-##  Tech Stack
+
+## Tech Stack
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
-<p>
-  <div align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-</p>
+<br>
 
-<table>
+<table align="center">
   <tr>
-    <td><strong>Programming Language:</strong></td>
+    <td align="center" width="180">
+      <strong>Programming Language</strong>
+    </td>
     <td>
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -21,11 +21,11 @@
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
-    <td><strong>Framework & Library:</strong></td>
+    <td align="center" width="180">
+      <strong>Framework & Library</strong>
+    </td>
     <td>
       <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -35,6 +35,3 @@
     </td>
   </tr>
 </table>
-
-
-
