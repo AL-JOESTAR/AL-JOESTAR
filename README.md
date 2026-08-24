@@ -34,4 +34,14 @@
       <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="180">
+      <strong>Databases</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
+    </td>
+  </tr>
 </table>
