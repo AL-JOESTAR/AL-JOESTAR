@@ -2,9 +2,6 @@
 
 ## Tech Stack
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-<img src="https://streak-stats.demolab.com/?user=AL-JOESTAR&theme=tokyonight&hide_border=false">
-
 </div>
 
 <br>
@@ -48,3 +45,11 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=AL-JOESTAR&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
