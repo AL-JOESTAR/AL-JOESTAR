@@ -1,6 +1,6 @@
 <div align="center">
 
-## Tech Stack
+<h1>TECH STACK</h1>
 
 </div>
 
