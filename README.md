@@ -47,10 +47,29 @@
   </tr>
 </table>
 
-<!-- <div align="center">
+## Featured Technologies
+
+### Frontend
+
+React, Next.js, TypeScript, JavaScript, HTML5, CSS, and Bootstrap.
+
+### Backend
+
+Laravel and PHP, with experience building backend services and APIs.
+
+### Data
+
+Python, NumPy, and Pandas for data processing, analysis, and data-driven applications.
+
+### Database
+
+MySQL, PostgreSQL, and Redis for relational data storage, application persistence, and caching.
+
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=AL-JOESTAR&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AL-JOESTAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-</div> -->
+</div>
 
