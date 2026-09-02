@@ -47,24 +47,6 @@
   </tr>
 </table>
 
-## Featured Technologies
-
-### Frontend
-
-React, Next.js, TypeScript, JavaScript, HTML5, CSS, and Bootstrap.
-
-### Backend
-
-Laravel and PHP, with experience building backend services and APIs.
-
-### Data
-
-Python, NumPy, and Pandas for data processing, analysis, and data-driven applications.
-
-### Database
-
-MySQL, PostgreSQL, and Redis for relational data storage, application persistence, and caching.
-
 
 <div align="center">
 
