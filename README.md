@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>TECH STACK</h1>
+<h1>what i use</h1>
 
 </div>
 
