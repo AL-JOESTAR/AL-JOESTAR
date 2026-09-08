@@ -46,7 +46,9 @@
       <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
   </tr>
+
   
+  <!-- 
   <tr>
     <td align="center" width="180">
       <strong>Tools</strong>
@@ -54,7 +56,9 @@
     <td>
       <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white" />
     </td>
-  </tr>
+  </tr> 
+-->
+  
 </table>
 
 
