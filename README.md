@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>what i use</h1>
+<h1>What I Use</h1>
 
 </div>
 
@@ -50,10 +50,12 @@
 
   <tr>
     <td align="center" width="180">
-      <strong>Tools</strong>
+      <strong>Tools</stron2g>
     </td>
     <td>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
   </tr> 
   
