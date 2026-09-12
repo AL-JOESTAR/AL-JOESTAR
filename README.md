@@ -59,8 +59,8 @@
 
  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 
-    </td>
-  </tr> 
+  </td>
+</tr> 
   
 </table>
 
