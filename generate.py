@@ -12,11 +12,11 @@ from xml.sax.saxutils import escape as esc
 # =====================================================================
 # CONFIG  (edit this)
 # =====================================================================
-NAME = "John Doe"
+NAME = "Nakhwah Alfikry"
 ROLE = "Builds things at Acme."            # shown under the name, in big letters
 SUBTITLE = "After hours, I build tiny, delightful toys for the web."
-USERNAME = "johndoe"                         # GitHub username
-HOME_URL = "https://github.com/johndoe"
+USERNAME = "AL-JOESTAR"                         # GitHub username
+HOME_URL = "https://github.com/AL-JOESTAR"
 
 # --- contribution graph panel (placeholder; see README note about snake) ---
 GRAPH_CONTRIBUTIONS = "1,234 CONTRIBUTIONS"
