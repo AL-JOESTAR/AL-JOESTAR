@@ -1,68 +1,7 @@
 <div align="center">
-
-<h1>Stack</h1>
-
+<a href="https://yetanothersnake.dev"><picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/header-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/header.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header.svg" width="76.8%" align="top" alt="Nama Kamu, role kamu. Deskripsi singkat tentang dirimu."></picture></a><a href="https://github.com/USERNAME"><picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/egg-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/egg.svg"><source media="(prefers-color-scheme: light)" srcset="assets/egg-light.svg"><img src="assets/egg.svg" width="19.2%" align="top" alt="A tiny egg wiggles in the corner. 1UP."></picture></a><br>
+<a href="https://github.com/USERNAME"><picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/graph-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/graph.svg"><source media="(prefers-color-scheme: light)" srcset="assets/graph-light.svg"><img src="assets/graph.svg" width="96%" align="top" alt="A snake eats my real GitHub contribution graph, redrawn daily."></picture></a><br>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/stack-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/stack.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack.svg" width="96%" align="top" alt="Stack: Python, TypeScript, Go, SQL, React, Next.js, Tailwind, Node.js, FastAPI, Laravel, PostgreSQL, Redis, MongoDB, Docker, GitHub Actions, Linux, AWS."></picture><br>
+<a href="https://github.com/USERNAME"><picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/cart-1-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/cart-1.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cart-1-light.svg"><img src="assets/cart-1.svg" width="32%" align="top" alt="Project 1."></picture></a><a href="https://github.com/USERNAME"><picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/cart-2-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/cart-2.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cart-2-light.svg"><img src="assets/cart-2.svg" width="32%" align="top" alt="Project 2."></picture></a><a href="https://github.com/USERNAME"><picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/cart-3-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/cart-3.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cart-3-light.svg"><img src="assets/cart-3.svg" width="32%" align="top" alt="Project 3."></picture></a><br>
+<a href="https://github.com/USERNAME"><picture><source media="(max-width: 600px) and (prefers-color-scheme:light)" srcset="assets/phone/credits-light.svg"><source media="(max-width: 600px)" srcset="assets/phone/credits.svg"><source media="(prefers-color-scheme: light)" srcset="assets/credits-light.svg"><img src="assets/credits.svg" width="96%" align="top" alt="Credits."></picture></a>
 </div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <strong>Programming Languages</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="180">
-      <strong>Framework & Library</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="180">
-      <strong>Databases</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
-    </td>
-  </tr>
-
-
-  <tr>
-    <td align="center" width="180">
-      <strong>Tools</stron2g>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-
- <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-
- <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
- <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white" />
-
-  </td>
-</tr> 
-  
-</table>
-
-
